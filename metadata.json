@@ -1,0 +1,6 @@
+{
+  "name": "Attendify - Smart Attendance System",
+  "description": "Smart college attendance management system with dynamic QR code generation, live camera scanning, GPS location geofencing, and lecture participation analytics.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
